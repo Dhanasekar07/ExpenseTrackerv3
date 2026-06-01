@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_light">#4CAF50</color>
+    <color name="green_pale">#E8F5E9</color>
+    <color name="tea_color">#FF6F00</color>
+    <color name="travel_color">#1565C0</color>
+    <color name="grocery_color">#2E7D32</color>
+    <color name="other_color">#6A1B9A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey_light">#F5F5F5</color>
+    <color name="grey_text">#757575</color>
+    <color name="black">#212121</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+</resources>
